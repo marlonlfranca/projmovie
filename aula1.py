@@ -6,3 +6,6 @@ imc = peso / (altura ** 2)
 linha1 = f'{nome}, seu IMC é: {imc}'
 
 print(linha1)
+
+
+teste = 2 * 2 / 4 
