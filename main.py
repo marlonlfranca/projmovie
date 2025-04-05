@@ -62,3 +62,5 @@ df = pd.read_csv(
 # )
 
 # df.to_sql('movies_metadata.csv', con=engine, if_exists='append', index=False)
+
+print(123)
